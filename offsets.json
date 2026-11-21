@@ -1,0 +1,72 @@
+{
+  "version": "version-2c6fd5e09aaf4cfa",
+  "source": "https://offsets.imtheo.lol",
+  "dumped_at": "07:30 17/11/2026",
+  "universal": {
+    "Instance": {
+      "ChildrenStart":  112,
+      "ChildrenEnd":    8,
+      "NameContainer":  104,
+      "Name":           0,
+      "Parent":         96,
+      "ClassDescriptor":24,
+      "ClassBase":      440
+    },
+    "Humanoid": {
+      "Health":          388,
+      "MaxHealth":       416,
+      "HumanoidRootPart":1120,
+      "RigType":         440,
+      "Walkspeed":       456,
+      "DisplayName":     160
+    },
+    "BasePart": {
+      "Primitive":     376,
+      "Transparency":  280
+    },
+    "Primitive": {
+      "Position": 212,
+      "Size":     452,
+      "Rotation": 176
+    },
+    "DataModel": {
+      "PlaceId":    416,
+      "GameId":     408,
+      "Workspace":  360,
+      "GameLoaded": 1464
+    },
+    "FakeDataModel": {
+      "Pointer":       148988776,
+      "RealDataModel": 504
+    },
+    "VisualEngine": {
+      "Pointer":    143223704,
+      "ViewMatrix": 432
+    },
+    "Player": {
+      "LocalPlayer":    280,
+      "ModelInstance":  672,
+      "Team":           736,
+      "UserId":         184,
+      "DisplayName":    288
+    },
+    "Workspace": {
+      "CurrentCamera": 1184
+    },
+    "Camera": {
+      "Position":      228,
+      "FieldOfView":   296,
+      "ViewportSize":  708
+    },
+    "Model": {
+      "PrimaryPart": 576
+    }
+  },
+  "games": {
+    "default": {
+      "note": "",
+      "characters_folder": "Players",
+      "supported": true
+    }
+  }
+}
